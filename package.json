@@ -1,0 +1,19 @@
+{
+  "name": "expanding-cards",
+  "version": "1.0.0",
+  "description": "expands cards on selection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunmacs/Expanding-cards-Js.git"
+  },
+  "author": "arunmacs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunmacs/Expanding-cards-Js/issues"
+  },
+  "homepage": "https://github.com/arunmacs/Expanding-cards-Js#readme"
+}
